@@ -39,14 +39,6 @@
       "order_date": "2020-03-10T15:52:23.000Z",
       "table": 35,
       "Category": "Entree"
-    },
-    "5": {
-      "order_num": 5,
-      "item_name": "Sprite",
-      "quantity": 1,
-      "order_date": "2020-03-10T15:52:23.000Z",
-      "table": 35,
-      "Category": "Drink"
     }
   }
 }

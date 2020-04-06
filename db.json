@@ -6,7 +6,7 @@
       "quantity": 2,
       "order_date": "2020-03-10T13:48:59.000Z",
       "table": 31,
-      "Category": "Entree"
+      "category": "Entree"
     },
     "1": {
       "order_num": 1,
@@ -14,7 +14,7 @@
       "quantity": 2,
       "order_date": "2020-03-10T13:48:59.000Z",
       "table": 31,
-      "Category": "Drink"
+      "category": "Drink"
     },
     "2": {
       "order_num": 3,
@@ -22,7 +22,7 @@
       "quantity": 2,
       "order_date": "2020-03-10T12:44:32.000Z",
       "table": 33,
-      "Category": "Entree"
+      "category": "Entree"
     },
     "3": {
       "order_num": 3,
@@ -30,7 +30,7 @@
       "quantity": 1,
       "order_date": "2020-03-10T12:44:32.000Z",
       "table": 33,
-      "Category": "Drink"
+      "category": "Drink"
     },
     "4": {
       "order_num": 5,
@@ -38,7 +38,15 @@
       "quantity": 1,
       "order_date": "2020-03-10T15:52:23.000Z",
       "table": 35,
-      "Category": "Entree"
+      "category": "Entree"
+    },
+    "5": {
+      "order_num": 5,
+      "item_name": "Sprite",
+      "quantity": 1,
+      "order_date": "2020-03-10T15:52:23.000Z",
+      "table": 35,
+      "category": "Drink"
     }
   }
 }

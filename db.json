@@ -4,7 +4,7 @@
       "order_num": 1678,
       "item_name": "Grilled Chicken",
       "quantity": 2,
-      "order_date": "2020-04-06T21:10:30.000Z",
+      "order_date": "2020-06-04T21:10:30.000Z",
       "table": 3,
       "category": "Entrees"
     },
@@ -12,7 +12,7 @@
       "order_num": 1678,
       "item_name": "Coke",
       "quantity": 2,
-      "order_date": "2020-04-06T21:10:30.000Z",
+      "order_date": "2020-06-04T21:10:30.000Z",
       "table": 3,
       "category": "Drinks"
     },
@@ -52,7 +52,7 @@
       "order_num": 1678,
       "item_name": "Boneless Wings",
       "quantity": 1,
-      "order_date": "2020-04-06T21:10:30.000Z",
+      "order_date": "2020-06-04T21:10:30.000Z",
       "table": 3,
       "category": "Appetizers"
     },
@@ -60,7 +60,7 @@
       "order_num": 1678,
       "item_name": "Bacon Cheeseburger",
       "quantity": 1,
-      "order_date": "2020-04-06T21:10:30.000Z",
+      "order_date": "2020-06-04T21:10:30.000Z",
       "table": 3,
       "category": "Entrees"
     },

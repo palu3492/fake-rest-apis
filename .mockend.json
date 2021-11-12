@@ -27,5 +27,15 @@
     "isPublic": {
       "boolean": {}
     }
+  },
+  "Auth": {
+    "Register": {
+
+    },
+    "Login": {
+      "authToken": {
+        "string": "abc123 "
+      }
+    }
   }
 }

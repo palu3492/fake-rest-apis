@@ -34,7 +34,7 @@
     },
     "Login": {
       "authToken": {
-        "string": "abc123 "
+        "string": ["abc123"]
       }
     }
   }
